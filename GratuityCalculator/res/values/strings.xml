@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Gratuity Calculator</string>
+	<string name="amount">Amount $</string>
+	<string name="gratuity">Gratuity $</string>
+	<string name="total">Total $</string>
+	<string name="service">Rate Service</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">Percent</string>
+	<string name="splitBill">Going Dutch</string>
+	<string name="partySize">Party Size</string>
+</resources>
