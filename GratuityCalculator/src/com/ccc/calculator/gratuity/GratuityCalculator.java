@@ -128,13 +128,13 @@ public class GratuityCalculator extends Activity {
 	    super.onRestoreInstanceState(savedInstanceState);
 	    
 	    // initialize the amount to saved amount
-	 	currentAmount = savedInstanceState.getDouble(AMOUNT); 
+	    currentAmount = savedInstanceState.getDouble(AMOUNT); 
 	 	
-	 	// initialize the service gratuity to saved gratuity percent 
-	 	currentGratuityServicePercent = savedInstanceState.getInt(CUSTOM_SERVICE_PERCENT);
+	    // initialize the service gratuity to saved gratuity percent
+	    currentGratuityServicePercent = savedInstanceState.getInt(CUSTOM_SERVICE_PERCENT);
 	 	
-	 	// initialize the split gratuity service to saved number of people splitting gratuity 
-	 	currentSplitGratuityService = savedInstanceState.getInt(CUSTOM_SPLIT_GRATUITY_SERVICE); 
+	    // initialize the split gratuity service to saved number of people splitting gratuity
+	    currentSplitGratuityService = savedInstanceState.getInt(CUSTOM_SPLIT_GRATUITY_SERVICE); 
 	}
 	
 	/**
