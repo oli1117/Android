@@ -73,24 +73,6 @@ public class GratuityCalculator extends Activity {
 		super.onCreate(savedInstanceState); // call superclass's version
 		setContentView(R.layout.main); // inflate the GUI
 		
-		// Check whether we're recreating a previously destroyed instance, that is, if application just started or is being restored from memory.
-		/*if(savedInstanceState != null) {
-			// app is being restored from memory, not executed from scratch, restore value of members from saved state.
-			// initialize the amount to saved amount
-			currentAmount = savedInstanceState.getDouble(AMOUNT); 
-			
-			// initialize the service gratuity to saved gratuity percent 
-			currentGratuityServicePercent = savedInstanceState.getInt(CUSTOM_SERVICE_PERCENT);
-			
-			// initialize the split gratuity service to saved number of people splitting gratuity 
-			currentSplitGratuityService = savedInstanceState.getInt(CUSTOM_SPLIT_GRATUITY_SERVICE); 
-		} else {
-			// the application just started running, initialize members with default values for a new instance
-			currentAmount = 0.0; // initialize the amount to zero.
-			currentGratuityServicePercent = 18; // initialize the service gratuity to 18%
-			currentSplitGratuityService = 5; // initialize the split gratuity service to 5 people
-		}*/
-		
 		// get references to the 10%, 15% and 20% gratuity and total EditTexts
 		gratuityTenPercentEditText = (EditText) findViewById(R.id.gratuityTenPercentEditText);
 		totalTenPercentEditText = (EditText) findViewById(R.id.totalTenPercentEditText);
