@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  French - France
+Language Code:  fr
+Locale ID string:  fr-fr
+Locale ID Decimal:  1036
+
+Currency:  The French franc (sign: F, commonly also FF or Fr[2]) was a currency of France, but they converted their currency to euro (sign: €; code: EUR) 
+-->
+<resources>
+	<string name="app_name">Le pourboire Calculatrice</string>
+	<string name="amount">Montant €</string>
+	<string name="amountHint">Après impôt</string>
+	<string name="gratuity">Le pourboire €</string>
+	<string name="total">Total €</string>
+	<string name="service">Service de Taux</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">Pour cent</string>
+	<string name="splitBill">Split entre</string>
+	<string name="partySize">Grosseur du groupe</string>
+	<string name="people">Personnes</string>
+	<string name="person">Personne</string>
+</resources>

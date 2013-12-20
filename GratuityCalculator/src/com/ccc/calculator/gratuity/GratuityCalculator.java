@@ -94,6 +94,7 @@ public class GratuityCalculator extends Activity {
 		
 		// get the TextView displaying the split service gratuity
 		splitServiceGratuityTextView = (TextView) findViewById(R.id.splitServiceGratuityTextView);
+		splitServiceGratuityTextView.append(" " + getString(R.string.people));
 		
 		// get the service gratuity and total EditTexts 
 		gratuityServiceEditText = (EditText) findViewById(R.id.gratuityServiceEditText);
@@ -348,9 +349,9 @@ public class GratuityCalculator extends Activity {
 	private void updateCustomSplitGratuityAndTotal() {
 		// set splitServiceGratuityTextView's text to match the position of the SeekBar
 		if(currentSplitGratuityService > 1) {
-			splitServiceGratuityTextView.setText(currentSplitGratuityService + " People");
+			splitServiceGratuityTextView.setText(currentSplitGratuityService + " " + getString(R.string.people));
 		} else {
-			splitServiceGratuityTextView.setText(currentSplitGratuityService + " Person");
+			splitServiceGratuityTextView.setText(currentSplitGratuityService + " " + getString(R.string.person));
 		}
 		
 		// calculate the custom split service gratuity amount

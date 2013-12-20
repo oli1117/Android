@@ -82,14 +82,19 @@ public final class R {
     }
     public static final class string {
         public static final int amount=0x7f050001;
+        public static final int amountHint=0x7f050002;
         public static final int app_name=0x7f050000;
-        public static final int gratuity=0x7f050002;
-        public static final int gratuityPercent=0x7f050006;
-        public static final int partySize=0x7f050008;
-        public static final int service=0x7f050004;
-        public static final int splitBill=0x7f050007;
-        public static final int total=0x7f050003;
-        public static final int zero=0x7f050005;
+        public static final int gratuity=0x7f050003;
+        public static final int gratuityPercent=0x7f050007;
+        public static final int partySize=0x7f050009;
+        /**  <string name="partySize">Tamaño del grupo</string> 
+         */
+        public static final int people=0x7f05000a;
+        public static final int person=0x7f05000b;
+        public static final int service=0x7f050005;
+        public static final int splitBill=0x7f050008;
+        public static final int total=0x7f050004;
+        public static final int zero=0x7f050006;
     }
     public static final class style {
         public static final int Theme_Transparent=0x7f060000;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Spanish - Honduras
+Language Code:  es
+Locale ID string:  es-hn
+Locale ID Decimal:  18442
+
+Currency:  Honduran lempira (/lɛmˈpɪrə/, sign: L, ISO 4217 code: HNL)
+Left currency symbol out so that this app can be use by any spanish speaking locale and region.
+-->
+<resources>
+	<string name="app_name">Calculadora de Propinas</string>
+	<string name="amount">Cantidad</string>
+	<string name="amountHint">Después de Impuestos</string>
+	<string name="gratuity">Propina</string>
+	<string name="total">Total</string>
+	<string name="service">Tasa de servicio</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">Porcentaje</string>
+	<string name="splitBill">Dividir entre</string>
+	<string name="partySize">Tamaño</string>
+	<!-- <string name="partySize">Tamaño del grupo</string> -->
+	<string name="people">Personas</string>
+	<string name="person">Persona</string>
+</resources>

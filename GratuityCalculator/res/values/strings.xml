@@ -2,6 +2,7 @@
 <resources>
 	<string name="app_name">Gratuity Calculator</string>
 	<string name="amount">Amount $</string>
+	<string name="amountHint">After Tax</string>
 	<string name="gratuity">Gratuity $</string>
 	<string name="total">Total $</string>
 	<string name="service">Rate Service</string>
@@ -9,4 +10,6 @@
 	<string name="gratuityPercent">Percent</string>
 	<string name="splitBill">Going Dutch</string>
 	<string name="partySize">Party Size</string>
+	<string name="people">People</string>
+	<string name="person">Person</string>
 </resources>

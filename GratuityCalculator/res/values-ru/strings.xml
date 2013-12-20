@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Russian
+Language Code:  ru
+Locale ID string:  ru
+Locale ID Decimal:  1049
+
+Currency:  The ruble or rouble (Russian: рубль rublʹ, plural рубли rubli; code: RUB, Symbol	) is the currency of the Russian Federation and the two partially recognized republics of Abkhazia and South Ossetia.
+Since December 2013, the official symbol for the ruble is now RUB, a Cyrillic letter er with a single added horizontal stroke,[7][8] though the abbreviation руб.
+-->
+<resources>
+	<string name="app_name">Чаевые калькулятор</string>
+	<string name="amount">Сумма Р</string>
+	<string name="amountHint">После уплаты налогов</string>
+	<string name="gratuity">Чаевые Р</string>
+	<string name="total">Итого Р</string>
+	<string name="service">Уровень обслуживания</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">Процент</string>
+	<string name="splitBill">Разделение между</string>
+	<string name="partySize">Размер группы</string>
+	<string name="people">Народ</string>
+	<string name="person">Лицо</string>
+</resources>

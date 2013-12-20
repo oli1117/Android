@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Japanese
+Language Code:  ja
+Locale ID string:  ja
+Locale ID Decimal:  1041
+
+Currency:  The Japanese yen (円 or 圓 en?, sign: ¥; code: JPY) is the official currency of Japan.
+-->
+<resources>
+	<string name="app_name">チップ計算ツール</string>
+	<string name="amount">量 ¥</string>
+	<string name="amountHint">税後</string>
+	<string name="gratuity">チップ ¥</string>
+	<string name="total">合計 ¥</string>
+	<string name="service">レートサービス</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">%</string>
+	<string name="splitBill">間の分割</string>
+	<string name="partySize">グループのサイズ</string>
+	<string name="people">人々</string>
+	<string name="person">担当者</string>
+</resources>

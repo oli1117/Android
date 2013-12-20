@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Portuguese - Brazil
+Language Code:  pt
+Locale ID string:  pt-br
+Locale ID Decimal:  1046
+
+Currency:  The real (/reɪˈɑːl/; Brazilian Portuguese: [ʁeˈaw]; pl. reais) is the present-day currency of Brazil. Its sign is R$ and its ISO code is BRL.
+-->
+<resources>
+	<string name="app_name">Gratuidade Calculator</string>
+	<string name="amount">Quantidade R$</string>
+	<string name="amountHint">Depois de Impostos</string>
+	<string name="gratuity">Gratuidade R$</string>
+	<string name="total">Total R$</string>
+	<string name="service">Taxa de Serviço</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">Por Cento</string>
+	<string name="splitBill">Dividido entre</string>
+	<string name="partySize">Tamanho do Grupo</string>
+	<string name="people">As Pessoas</string>
+	<string name="person">Pessoa</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hebrew - Text on right side -->
+<!-- 
+Locale:  Hebrew
+Language Code:  he
+Locale ID string:  he
+Locale ID Decimal:  1037
+
+Currency:  The Israeli new shekel (Hebrew: שֶׁקֶל חָדָשׁ Shekel H̱adash) (sign: ₪; acronym: ש״ח and in English NIS; code: ILS) is the currency of the State of Israel. 
+-->
+<resources>
+	<string name="app_name">מחשבון תשר</string>
+	<string name="amount">כמות ₪</string>
+	<string name="amountHint">לאחר מס</string>
+	<string name="gratuity">תשר ₪</string>
+	<string name="total">סה"כ ₪</string>
+	<string name="service">שירות תעריף</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">אחוזים</string>
+	<string name="splitBill">פיצול בין</string>
+	<string name="partySize">גודל הקבוצה</string>
+	<string name="people">אנשים</string>
+	<string name="person">אדם</string>
+</resources>

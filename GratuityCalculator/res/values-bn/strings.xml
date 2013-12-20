@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Bengali - India
+Language Code:  bn
+Locale ID string:  bn
+Locale ID Decimal:  1093
+
+Currency:  Indian rupee (HTML: &#8377; sign: ; code: INR), left currency symbol out, not able to produce it at the moment.
+-->
+<resources>
+	<string name="app_name">করার গ্র্যাচুইটি ক্যালকুলেটর</string>
+	<string name="amount">টাকা</string>
+	<string name="amountHint">ট্যাক্স পর</string>
+	<string name="gratuity">করার গ্র্যাচুইটি</string>
+	<string name="total">মোট</string>
+	<string name="service">হার সার্ভিস</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">শতাংশ</string>
+	<string name="splitBill">মধ্যে SPLIT</string>
+	<string name="partySize">গ্রুপ সাইজ</string>
+	<string name="people">মানুষ</string>
+	<string name="person">ব্যক্তি</string>
+</resources>

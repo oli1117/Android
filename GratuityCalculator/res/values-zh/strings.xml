@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+Locale:  Chinese - China
+Language Code:  zh
+Locale ID string:  zh-cn
+Locale ID Decimal:  2052
+
+Currency:  The renminbi (RMB, sign: ¥; code: CNY; also CN¥, 元 and CN元) is the official currency of the People’s Republic of China.
+The yuan (元/圆) (sign: ¥) is the basic unit of the renminbi, but is also used as a synonym of the currency, especially in international
+contexts – the ISO 4217 standard code for renminbi is CNY, an acronym of “Chinese yuan” (a similar case is the use of the terms sterling
+and pound to designate the British currency and unit).  Its name (simplified Chinese: 人民币; traditional Chinese: 人民幣; pinyin: rénmínbì)
+literally means "people's currency".
+-->
+<resources>
+	<string name="app_name">小费计算器</string>
+	<string name="amount">数量 ¥</string>
+	<string name="amountHint">税后</string>
+	<string name="gratuity">约满酬金 ¥</string>
+	<string name="total">总 ¥</string>
+	<string name="service">价格服务</string>
+	<string name="zero">0.00</string>
+	<string name="gratuityPercent">百分比</string>
+	<string name="splitBill">拆分提示</string>
+	<string name="partySize">方大小</string>
+	<string name="people">人民</string>
+	<string name="person">人</string>
+</resources>
