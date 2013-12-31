@@ -26,60 +26,61 @@ literally means "people's currency".
 	<string name="person">人</string>
 	
 	<string name="updates">
-	    Updates in this version:
-	    \n- Calculates in real time.
-	    \n- Split bill between any number of people.
-	    \n- Specify your own custom gratuity percent.</string>
-	<string name="eula">
-	    COPYRIGHTS:
-	    
-	    \nCopyright 2014 Gratuity Calculator. All Rights Reserved.
-	    
-	    \n\nEnd-user License Agreement:  
-	    \nBy downloading any application from Castillo Computer Consulting, LLC or Google™ (here after referered to as “The Company”), installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).
-	    
-	    \n\n1. USE OF APPLICATION
-	    \na. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
-	    \nb. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).
-	    \nc. You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach.
-	    
-	    \n\n2. PROPRIETARY RIGHTS
-	    \nYou acknowledge that
-	    \na. the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws.
-	    \nb. The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company’s or any third partyâ€™s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
-	    
-	    \n\n3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY
-	    \na. The Company’s Privacy Policy (located at http://www.google.com/privacypolicy.html) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company’s privacy policies.
-	    \nb. The Application may contain features that are used in conjunction with The Company’s search and other services. Accordingly, your use of such features of the Application is also governed by The Company’s Terms of Service located at http://www.google.com/terms_of_service.html, The Company’s Privacy Policy located at http://www.google.com/privacypolicy.html, as well as any applicable The Company Service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
-	    
-	    \n\n4. U.S. GOVERNMENT RESTRICTED RIGHTS
-	    \nThis Application, related materials and documentation have been developed entirely with private funds. If the user of the Application is an agency, department, employee, or other entity of the United States Government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Application, including technical data or manuals, is restricted by the terms, conditions and covenants contained in these Terms and Conditions. In accordance with Federal Acquisition Regulation 12.212 for civilian agencies and Defense Federal Acquisition Regulation Supplement 227.7202 for military agencies, use of the Application is further restricted by these Terms and Conditions.
-	    
-	    \n\n5. EXPORT RESTRICTIONS
-	    \nThe Application may be subject to export controls or restrictions by the United States or other countries or territories. You agree to comply with all applicable U.S. and international export laws and regulations. These laws include restrictions on destinations, end users, and end use.
-	    
-	    \n\n6. TERMINATION
-	    \nThese Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.
-	    
-	    \n\n7. INDEMNITY
-	    \nTo the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.
-	    
-	    \n\n8. DISCLAIMER OF WARRANTIES
-	    \na. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND.
-	    \nb. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
-	    \nc. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
-	    \nd. THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
-	    
-	    \n\n9. LIMITATION OF LIABILITY
-	    \nYOU EXPRESSLY UNDERSTAND AND AGREE THAT THE COMPANY, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT THE COMPANY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
-	    
-	    \n\n10. MISCELLANEOUS
-	    \na. These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Application.
-	    \nb. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company.
-	    \nc. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
-	    \nd. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
-	    \ne. These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of the State of California without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+	    此版本中更新:
+	    \n-实时计算。
+	    \n-分体式之间的任何条例草案的人。
+	    \n-指定您自己的自定义百分比约满酬金。
 	</string>
-	<string name="accept">Accept</string>
-	<string name="decline">Decline</string>
+	<string name="eula">
+	    版权:
+	    
+	    \n\n版权所有2014酬金计算器。 保留所有权利。
+	    
+	    \n\n最终用户许可协议:下载
+	    \n任何应用程序从卡斯蒂略·计算机咨询公司或到Google™(此处referered后,作为“本公司”)、安装或使用本应用程序或其中的任何部分("应用程序"),即表示您同意接受以下条款和条件(“条款和条件”)。
+	    
+	    \n\n1。 使用应用程序
+	    \n- 公司授予您非独占的、不可转让的、有限的权利和许可,安装和使用此应用程序仅供您个人使用。
+	    \n- 您可能无法使用该应用程序的任何方式,可能会损坏、禁用,或加重其负担、影响的应用程序(或服务器或网络连接到应用程序),也不能使用该应用程序的任何方式,否则可能会妨碍任何其他方的使用和享受该应用程序(或服务器或网络连接到应用程序)。
+	    \n- 您同意,您仅负责(和该公司没有责任对您或任何第三方)使用的应用程序,任何违反规定的义务和条件,及其后果(包括任何损失或损害,本公司可能遭受)的任何此类违规行为。
+	    
+	    \n\n2。 专有权利
+	    \n您承认,
+	    \n- 应用程序包含专有和机密信息,受适用的知识产权法和其他法律规定。
+	    \n- 公司和/或第三方拥有所有权利、资格和利益,应用程序和内容,但不包括您所提供的内容,这可能是提出或通过应用程序访问,包括但不限于所有知识产权,其内。 “知识产权”指任何存在的一切权利,不时根据专利法、版权法、商业秘密法、商标法、不正当竞争法》,和所有其他专有权利和所有应用程序、更新、扩展和恢复,现在或以后在部队和世界各地实施。 您同意,您不得(也不得允许任何第三方,(i)复制、出售、许可、分发、传输、修改、改编、翻译、准备衍生作品、反编译、反向工程、反汇编或以其它方式尝试推导源代码在应用程序或内容,不得提出或通过应用程序访问的任何目的,除非另有许可,(ii)采取任何行动,绕过或破坏安全或内容使用规则规定、部署或实施的任何功能(包括但不限于数字权限管理功能)包含在应用程序,(iii)使用该应用程序访问、复制、传输、传输内容进行代码转换或违反任何法律或第三方的权利,或(iv)删除、模糊处理或改变本公司或 任何第三党理大版权声明、商标或其它专有权告示贴,或包含在一起,或访问,或通过应用程序。
+	    
+	    \n\n3。 本公司的服务条款和隐私政策。
+	    \n- 公司的隐私政策(位于http://www.google.com/privacypolicy.html)解释了公司如何处理您的信息和保护您的隐私当您使用该应用程序。 您同意对使用您的数据根据本公司的隐私政策。
+	    \n- "应用程序可能包含功能,在结合中使用带公司的搜索和其他服务。 因此,您使用的这种功能的应用程序,亦须受《公司的服务条款位于http://www.google.com/terms_of_service.html,公司的隐私政策位于http://www.google.com/privacypolicy.html,以及任何适用的公司服务的具体服务条款和隐私政策,可能会不时更新,恕不另行通知。
+	    
+	    \n\n4。 美国政府受限权利
+	    \n此应用程序、相关材料和文件已完全发展私营部门的资金。 如果用户的应用程序是一个机构、部门、员工或其他实体,在美国政府使用、复制、复制、发布、修改、披露、或转让该应用程序,其中包括技术数据或手册、限制条款、条件和条款,这些条款和条件。 按照联邦购买条例12.212的文职机构和联邦购买条例国防补充227.7202,军事部门,使用的应用程序的进一步受这些条款和条件。
+	    
+	    \n\n5。 出口限制
+	    \n"应用程序可能受出口管制或限制美国或其他国家或地区。 您同意遵守所有适用的美国和国际出口法律和法规。 这些法例包括限制对目的地、最终用户和最终用途。
+	    
+	    \n\n6。 终止
+	    \n这些条款和条件将继续适用,直至终止,您或公司如下所述。 您可以随时终止这些条款和条件在任何时候的永久删除该应用程序从您的移动设备的全部内容。 您的权利将自动并立即终止,恕不另行通知从本公司或任何第三方,如果您不遵守本条款与条件的任何条款。 在这种情况下,您必须立即删除该应用程序。
+	    
+	    \n\n7。 弥偿保证
+	    \n,在法律允许的最大范围内,即表示您同意辩护、赔偿责任和免责本公司、其附属公司及其各自的董事、主管人员、雇员和代理商免受任何及所有索赔、起诉、诉讼或法律程序,以及任何和所有亏损、负债、损失、成本和费用(包括合理的律师费用)或所产生的收入从您使用的应用程序,包括下载、安装或使用本应用程序,或您违反这些条款和条件。
+	    
+	    \n\n8。 保修免责声明
+	    \n- 您明确了解并同意,您使用“应用程序”时您可自行决定和风险,并且该应用程序是按原样提供,不提供任何形式的担保。
+	    \n- 完全由您自己负责的任何损坏到您的移动设备或其他设备,或数据丢失,结果从这种使用。
+	    \n- 公司进一步明确拒绝所有的担保和条件的任何一种,不论是明示或暗示的保证,包括但不限于暗示保修和条件的适销性、适用于某一特定用途的适用性以及非侵权,就该应用程序。
+	    \n- "应用程序不适用于核设施运营、生命支持系统、应急通信、飞机导航或通信系统、空中交通控制系统,或任何其他活动的失败的应用程序可能导致死亡、人身伤害或严重的身体或环境的损害。
+	    
+	    \n\n9。 责任限制
+	    \n您明确了解并同意,本公司、其附属公司及联营公司,及其许可方均不承担任何责任,您可以在任何责任理论,对任何直接、间接、附带、特殊或惩戒性的损害赔偿后果,可能会招致的您通过您使用的应用程序,包括任何数据丢失或损坏,您的移动设备,是否该公司或其代表已被告知或应已了解发生此类损失的可能性。
+	    
+	    \n\n10。 杂项
+	    \n- 这些条款和条件构成了整个协议您与本公司之间有关应用程序和管理您的应用程序使用,并完全取代以前的任何协议或您与本公司之间关于应用程序。
+	    \n- 本公司未能行使或执行任何权利或条款,这些条款与条件并不构成放弃此类权利或条款,它仍将提供给该公司。
+	    \n- ,如果任何法院,管辖决定这一问题,这类规则这些条款中的任何规定和条件是无效的,则该条款将被删除的条款和条件而不影响其余的条款和条件。 其余的规定这些条款与条件将继续有效并可强制执行。
+	    \n- 授予的权利,这些条款和条件可能不分配或转让或通过您的公司在没有事先书面批准的另一方。 您或本公司有权委托其责任或义务根据这些条款和条件的情况下事先书面批准的另一方。
+	    \n- 这些条款和条件以及您与本公司关系在这些条款和条件下将受美国加利福尼亚州的法律而不考虑其法律条文的冲突。 您和您的公司同意将其提交的专属管辖权的法院所在县,加利福尼亚圣克拉拉以解决任何法律问题产生于这些条款和条件。 尽管如此,您同意本公司仍将允许申请禁令补救措施(或等效类型的紧急法律救济)在任何司法管辖区。
+	</string>
+	<string name="accept">接受</string>
+	<string name="decline">下降</string>
 </resources>

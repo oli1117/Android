@@ -28,55 +28,54 @@ Currency:  Indian rupee (HTML: &#8377; sign: ; code: INR), left currency symbol 
 	    \n- আপনার নিজের রীতি সুনির্দিষ্ট করার গ্র্যাচুইটি শতাংশ।
 	</string>
 	<string name="eula">
-	    COPYRIGHTS:
+	    ভাষার কপিরাইটও করে
 	    
-	    \nCopyright 2014 Gratuity Calculator. All Rights Reserved.
+	    \n\n© 2014 সালের করার গ্র্যাচুইটি ক্যালকুলেটর। সর্বস্বত্ব সংরক্ষিত।
 	    
-	    \n\nEnd-user License Agreement:  
-	    \nBy downloading any application from Castillo Computer Consulting, LLC or Google™ (here after referered to as “The Company”), installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).
+	    \n\n-শেষে লাইসেন্সের :
+	    \nহার্ডওয়্য ার castillo কোন application থেকে কম্পিউটার, আলাপ llc বা গুগল™ (referered পর এখানে 'কোম্পানি স্থাপনের"), অথবা এই application বা কোন অংশ ("application"), আপনি স্ট্যান্ডার্ডগুলি শর্তাবলী ("শর্তাবলী")৷
 	    
-	    \n\n1. USE OF APPLICATION
-	    \na. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
-	    \nb. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).
-	    \nc. You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach.
+	    \n\n1। ব্যবহার application
+	    \n- কোম্পানি গ্র্যান্টস-আপনার নিজস্ব-transferable অধিকার সীমিত ইনস্টল করতে এবং লাইসেন্স ব্যবহার এবং এই application শুধুমাত্র ও যুক্তরাষ্ট্রকে আপনার ব্যক্তিগত ব্যবহারের।আপনি 
+	    \n- ব্যবহার না করে application যেন ক্ষতি করতে পারে, disable, overburden, বা গুরুতরভাবে ক্ষতিগ্রস্ত application (বা সার্ভারসমূহ বা নেটওয়ার্ক সঙ্গে application) হতে পারে না এবং ব্যবহার application যেন কোন হস্তক্ষেপ করতে পারে যে কোন দলের ব্যবহার ও ভোগ করে application (বা সার্ভারসমূহ বা নেটওয়ার্ক সঙ্গে application)।
+	    \n- আপনি যে আপনি দায়ি (ও, কোম্পানি কোন দায়িত্ব আপনার এবং আপনার জন্য তৃতীয়) ব্যবহার করে application, আপনার কোন বাধ্যবাধকতা ভঙ্গ করে শর্ত এবং ফলাফল (কোনো কিম্বা কোম্পানি ভুগতে পারে এমন কোন শর্ত ভঙ্গ)।
 	    
-	    \n\n2. PROPRIETARY RIGHTS
-	    \nYou acknowledge that
-	    \na. the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws.
-	    \nb. The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company’s or any third partyâ€™s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
+	    \n\n2।আপনি প্রোপ্রাইটরি সলিউশনের তুলনায় ওপেনসোর্সকেই প্রাধান্য দিচ্ছে অধিকার স্বীকারকরে application রয়েছে, 
+	    \n- প্রোপ্রাইটরি সলিউশনের তুলনায় ওপেনসোর্সকেই প্রাধান্য দিচ্ছে এবং গোপন তথ্য, প্রযোজ্য আইন দ্বারা সুরক্ষিত ও অন্যান্য আইন।
+	    \n- কোম্পানি এবং/অথবা নিজের তৃতীয় পক্ষের সকল অধিকার ও স্বার্থ, টাইটেল এবং application ও কনটেন্ট বিষয়বস্তু বাদ দেয়া, হাজির করা হতে পারে বা ব্যবহার application, শ্রেণীগত ছাড়া সব বৌদ্ধিক সম্পত্তির অধিকার এবং তাতে। "বৌদ্ধিক সম্পত্তির অধিকার" মানে কোন অধিকার এবং বর্তমান সময়ে পেটেন্ট আইন অধীনে, © আইন, বাণিজ্য গোপন আইন, ট্রেডমার্ক আইন, অন্যায় প্রতিযোগিতার আইন ও অন্যান্য প্রোপ্রাইটরি সলিউশনের তুলনায় ওপেনসোর্সকেই প্রাধান্য দিচ্ছে এবং কোন অধিকার, এবং যে সব মেয়াদ বৃদ্ধির আবেদন ফ্ল্যাটের নিবন্ধন, এবং এর, এখন কার্যকর ও পরকালে বা প্রভাব। আপনার অনুমতি না এবং কোন তৃতীয়, (আমি) কপি বিক্রি,, লাইসেন্স,,, সংশোধন, সঙ্গে খাপ খাইয়ে তৈরি, অনুবাদ, ােনর মে লেদর সে কাজ কাছ থেকে, decompile, প্রকৌশলী, disassemble চেষ্টা না আমাদের সূত্র থেকে application অথবা কোড বিষয়বস্তু উপস্থাপন করা বা ব্যবহার application কোনো অনুমতি না, তা না হলে, (ii) পদক্ষেপ নিতে রাষ্ট্রপতির পরাজয় বা নিরাপত্তা দেয়া নিয়ম কনটেন্ট ব্যবহার বা বলপূর্বক মোতায়েন, কোন মেনর না (শ্রেণীগত ডিজিটাল অধিকার মেনর) ব্যবস্থাপনা করে application, (iii) ব্যবহার করে application ব্যবহার করতে, কপি,, transcode বা retransmit কনটেন্ট কোন আইন লংঘন বা তৃতীয়, অথবা (iv), অজানা দূর, বা রত্নদ্বিপটি কোম্পানির অথবা তেইওয়ানের সংবাদমাধ্যমগুলোর খবরে তৃতীয় কোন€™, ট্রেডমার্ক চীনের © নোটিশ অথবা অন্যান্য প্রোপ্রাইটরি সলিউশনের তুলনায় ওপেনসোর্সকেই প্রাধান্য দিচ্ছে অধিকার বা নোটিশ দুলে মধ্যে বা ব্যবহার সাথে মাধ্যমে application।
 	    
-	    \n\n3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY
-	    \na. The Company’s Privacy Policy (located at http://www.google.com/privacypolicy.html) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company’s privacy policies.
-	    \nb. The Application may contain features that are used in conjunction with The Company’s search and other services. Accordingly, your use of such features of the Application is also governed by The Company’s Terms of Service located at http://www.google.com/terms_of_service.html, The Company’s Privacy Policy located at http://www.google.com/privacypolicy.html, as well as any applicable The Company Service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
+	    \n\n3। এই কোম্পানির ক্ষেত্রে সেবা ও গোপনীয়তা
+	    \n- কোম্পানির গোপনীয়তা (অবস্থিত http://www.google.com/privacypolicy.html) কিভাবে ব্যাখ্যা কোম্পানির মনোরঞ্জন আপনার তথ্য ও রুবেলার যখন আপনার ব্যক্তিগত গোপনীয়তা ব্যবহার application। আপনি আপনার তথ্য ব্যবহার করে কোম্পানির গোপনীয়তার নীতিমালা।এই application থাকতে পারে 
+	    \n- ফিচার ব্যবহার করা হয়, সাথে কোম্পানির অনুসন্ধান ও অন্যান্য। সে অনুযায়ী, ব্যবহার করে এমন বৈশিষ্ট্য হচ্ছে স্বায়ত্তশাসিত অঞ্চল আবেদন কোম্পানির ক্ষেত্রে সার্ভিস http://www.google.com/terms_of_service.html, অবস্থিত কোম্পানির গোপনীয়তা অবস্থিত http://www.google.com/privacypolicy.html, যেমন প্রযোজ্য কোন কোম্পানি সার্ভিস-নির্দিষ্ট শর্ত সেবা ও গোপনীয়তা, আপডেট হতে পারে এবং সময় ছাড়াই।
 	    
-	    \n\n4. U.S. GOVERNMENT RESTRICTED RIGHTS
-	    \nThis Application, related materials and documentation have been developed entirely with private funds. If the user of the Application is an agency, department, employee, or other entity of the United States Government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Application, including technical data or manuals, is restricted by the terms, conditions and covenants contained in these Terms and Conditions. In accordance with Federal Acquisition Regulation 12.212 for civilian agencies and Defense Federal Acquisition Regulation Supplement 227.7202 for military agencies, use of the Application is further restricted by these Terms and Conditions.
+	    \n\n4। মার্কিন সরকার
+	    \nএই application, অধিকার সীমাবদ্ধ সামগ্রী ও তথ্যায়ন হয়েছে বেসরকারি গৃহকর্মও অর্থ। ব্যবহারকারী যদি আবেদনের একটি সংস্থা, বিভাগের কর্মচারী বা অন্যান্য দশচক্র যুক্তরাষ্ট্র সরকার,, আর জেডপাথররাজ, প্রজনন, মুক্তি নবায়ন, হলফনামা, বা ，আমিও application, তথ্য প্রযুক্তি বা ম্যানুয়েল, হচ্ছে শর্ত, শর্ত ও আমানত ও অঙ্গীকার রক্ষা করে এই দলিলের শর্ত। নিয়ম অনুযায়ী ফেডারেল অধিগ্রহণ নিয়ন্ত্রণ 12.212 বেসামরিক ও সামরিক ফেডারেল অধিগ্রহণ নিয়ন্ত্রণ পোষণে সামরিক বাহিনীর 227.7202 ব্যবহার করে application আরো সীমিত এই শর্ত।
 	    
-	    \n\n5. EXPORT RESTRICTIONS
-	    \nThe Application may be subject to export controls or restrictions by the United States or other countries or territories. You agree to comply with all applicable U.S. and international export laws and regulations. These laws include restrictions on destinations, end users, and end use.
+	    \n\n5। রপ্তানি নিয়ন্ত্রণ
+	    \nকরে আবেদন করতে হবে অথবা নিয়ন্ত্রণসমূহ রপ্তানি নিয়ন্ত্রণ যুক্তরাষ্ট্র বা অন্য কোন দেশ বা অধিকৃত। আপনি বিধি মেনে মার্কিন ও আন্তর্জাতিক আইন ও নীতিমালা রপ্তানি। এর মধ্যে উপর নিয়ন্ত্রণ আইন শেষ গন্তব্যে ব্যবহারকারীদের ব্যবহার এবং শেষ।
 	    
-	    \n\n6. TERMINATION
-	    \nThese Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.
+	    \n\n6। কল টার্মিনেশন
+	    \nএসব শর্ত থাকবে না হওয়া পর্যন্ত আবেদন প্রত্যাহার করে আপনি বা কোম্পানি নিচে বর্ণনা। আপনার এই বাড়িটির শর্ত দিয়ে যে কোন সময় স্থায়ীভাবে থেকে পাওয়া অনেক application আপনার মোবাইল অন্ধদের পাবর্ত্য। আপনার অধিকার এবং সঙ্গে সঙ্গে টেন্যান্সিটি বাড়িটির থেকে ছাড়াই কোম্পানি বা আপনি যদি কোন তৃতীয় মেনে চলতে ব্যর্থ হলে রুযী এসব শর্ত। এ ধরনের ঘটনা, আপনার কাছে ইন্টারলিনকেজ ছিন্ন করে অবিলম্বে এই application।
 	    
-	    \n\n7. INDEMNITY
-	    \nTo the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.
+	    \n\n\7। গ্রহণকে ত্বরান্বিত করে এবং অনাক্র্যমতা জোরদার করে
+	    \nসর্বোচ্চ আইন কিছুটা অনুমতি আপনি টোরিজোস্, indemnify এবং নিরীহ কোম্পানি, affiliates এবং নিজ নিজ পরিচালক, কর্মকর্তা ও কর্মচারীরা থেকে কোন এজেন্ট এবং দাবি, Actions, ইনস্যুলেট কার্যক্রম বা, এবং কোন ক্ষতি,, গ্রাহকের দায়দেনাসহ ক্ষয়ক্ষতি, খরচ ও খরচ সহ (যুক্তিসঙ্গত নেবার ফি) থেকে সৃষ্ট থাকা মামলার বা ব্যবহারের application, আপনার হার্ডওয়্য ার, মহাস্থাপনার, অথবা আবেদনের লঙ্ঘন অথবা আপনার এই শর্ত।
 	    
-	    \n\n8. DISCLAIMER OF WARRANTIES
-	    \na. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND.
-	    \nb. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
-	    \nc. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
-	    \nd. THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+	    \n\n8। ডিসক্লেমার ওয়ারান্টী জাতীয় মধ্যে
+	    \n- বুঝতে আপনার কাছে দেখা দিলেন এবং, যে ব্যবহার আপনার আবেদনের এইজ্ একক এবং ঝুঁকি এবং application দেওয়া হয় এবং তা পাওয়া যায় না যে কোন ধরনের ওয়ারান্টী।আপনি 
+	    \n- দায়ি আপনার কোন ক্ষতি মোবাইল অন্ধদের, বা অন্য কোন ক্ষতি অন্ধদের, বা তথ্য, এমন ফলাফল ব্যবহার থেকে।
+	    \n- disclaims কোম্পানির কাছে দেখা দিলেন আরো সব ওয়ারান্টী জাতীয় কোন ধরনের শর্ত প্রকাশ না করার বা, না, কিন্তু সে সীমিত ওয়ারান্টী জাতীয় অবস্থা merchantability, fitness বিশেষ উদ্দেশ্য-মাধ্যমের ধরণ, শ্রদ্ধা application।
+	    \n- আবেদনের জন্য সন্কল্পিত ব্যবহার না করে পরমাণু সহযোগিতা সমর্থন, জীবন, জরুরী ব্যবস্থা (Matt., বিমান অথবা যোগাযোগের ব্যবস্থা, বিমান চলাচল ব্যবস্থা নিয়ন্ত্রণ, অথবা অন্য কোন কার্যক্রম ব্যর্থ application হতে পারে, মৃত্যু বা ব্যক্তিগত আঘাত গুরুতর শারীরিক বা পরিবেশগত ক্ষতি।
 	    
-	    \n\n9. LIMITATION OF LIABILITY
-	    \nYOU EXPRESSLY UNDERSTAND AND AGREE THAT THE COMPANY, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT THE COMPANY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+	    \n\n9। শ্রেণীগত দায়
+	    \nবুঝতে আপনার কাছে দেখা দিলেন এবং, কোম্পানি, subsidiaries ও affiliates এবং এর ইন্টারন্যাশনার বা হয়রারি না আপনি কোন তত্ত্ব দায় সরাসরি, পরোক্ষ www.workpermits.gov.uk ) বা বিশেষ পরপর দৃষ্টান্তমূলক ক্ষতি হতে পারে যে আপনি প্রথমে আপনার মাধ্যমে ব্যবহার application, যে কোন তথ্য বা ক্ষতি আপনার মোবাইল অন্ধদের জন্য ক্ষতি না কোম্পানি বা তার প্রতিনিধি পরামর্শ করা হয়েছে অথবা সচেতন থাকতে হবে সম্ভাবনা সৃষ্ট কোনো ক্ষতি হয়েছে।
 	    
-	    \n\n10. MISCELLANEOUS
-	    \na. These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Application.
-	    \nb. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company.
-	    \nc. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
-	    \nd. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
-	    \ne. These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of the State of California without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+	    \n\n10। বসতি
+	    \n- এলাকায় ইস্রাইলী পুলিশকে এসব শর্ত পুরো চুক্তি গঠন এবং কোম্পানি সম্পর্কিত application ও পরিচালনায় ব্যবহারের application, এবং কোন পরিবর্তে সম্পূর্ণ বা সুত্রগুলোর মতে আগে মধ্যে চুক্তি এবং কোম্পানি এ application।
+	    \n- ব্যর্থতার জন্য কোম্পানি বা কোন অধিকার প্রয়োগের রুযী অথবা এই শর্ত সে গাড়িগুলোর নয় এমন অধিকার বা রুযী, যা এখনো কোম্পানি পাওয়া যাবে। যদি কোন আদালতের 
+	    \n- আইন, সিদ্ধান্ত নেয়ার এখতিয়ার রয়েছে এ ব্যাপারে কোন নিয়ম রুযী এই শর্ত হচ্ছে বলে যে, রুযী লাঘব হবে না শর্ত মানবজাতিকেও বাকি শর্ত। বাকি ব্যবস্থা এই শর্ত থাকবে এবং বলবত্যোগ্য বৈধ।
+	    \n- দেওয়া অধিকার এসব শর্ত দেওয়া হবে না করে বা স্থানান্তর করা হয় না বা কোম্পানির লিখিত অনুমোদন করে। না না আপনি কোম্পানির প্রতিনিধি তাদের দায়িত্ব দেয়া বা বাধ্যবাধকতা এই শর্ত লিখিত অনুমোদন ছাড়া অন্য দল। এসব শর্ত 
+	    \n- সঙ্গে আপনার সম্পর্ক এবং এই কোম্পানি এই শর্ত দ্বারা শাসিত হবে আইন ছাড়া অঙ্গ রাজ্যের স্ক্রিপট ব্যাপারে আইন বিরোধ। আপনার কোম্পানি দাখিল করতে রাজি আদালতের এখতিয়ারের জমে মধ্যে অবস্থিত কাউন্টী ক্যালিফোর্নিয়ার শান্তা নেত্রী, সমাধানের ব্যাপারে কোন আইনি থেকে সৃষ্ট এই শর্ত। এই ভাড়াটেই টিকে একমত হবে বলে কোম্পানির জন্য আবেদন করতে পারবেন injunctive প্রতিকার পাওয়া যায় (অথবা সমমানের ধরনের জরুরী ত্রাণ) আইনের কোন ব্যাপার।
 	</string>
-	<string name="accept">Accept</string>
-	<string name="decline">Decline</string>
+	<string name="accept">তা মেনে নেবে</string>
+	<string name="decline">অবস্থার অবনতি</string>
 </resources>

@@ -23,60 +23,61 @@ Since December 2013, the official symbol for the ruble is now RUB, a Cyrillic le
 	<string name="person">Лицо</string>
 	
 	<string name="updates">
-	    Updates in this version:
-	    \n- Calculates in real time.
-	    \n- Split bill between any number of people.
-	    \n- Specify your own custom gratuity percent.</string>
-	<string name="eula">
-	    COPYRIGHTS:
-	    
-	    \nCopyright 2014 Gratuity Calculator. All Rights Reserved.
-	    
-	    \n\nEnd-user License Agreement:  
-	    \nBy downloading any application from Castillo Computer Consulting, LLC or Google™ (here after referered to as “The Company”), installing or using this application or any portion thereof (“Application”), you agree to the following terms and conditions (the “Terms and Conditions”).
-	    
-	    \n\n1. USE OF APPLICATION
-	    \na. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use.
-	    \nb. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party’s use and enjoyment of the Application (or servers or networks connected to the Application).
-	    \nc. You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach.
-	    
-	    \n\n2. PROPRIETARY RIGHTS
-	    \nYou acknowledge that
-	    \na. the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws.
-	    \nb. The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. “Intellectual Property Rights” means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company’s or any third partyâ€™s copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application.
-	    
-	    \n\n3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY
-	    \na. The Company’s Privacy Policy (located at http://www.google.com/privacypolicy.html) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company’s privacy policies.
-	    \nb. The Application may contain features that are used in conjunction with The Company’s search and other services. Accordingly, your use of such features of the Application is also governed by The Company’s Terms of Service located at http://www.google.com/terms_of_service.html, The Company’s Privacy Policy located at http://www.google.com/privacypolicy.html, as well as any applicable The Company Service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
-	    
-	    \n\n4. U.S. GOVERNMENT RESTRICTED RIGHTS
-	    \nThis Application, related materials and documentation have been developed entirely with private funds. If the user of the Application is an agency, department, employee, or other entity of the United States Government, the use, duplication, reproduction, release, modification, disclosure, or transfer of the Application, including technical data or manuals, is restricted by the terms, conditions and covenants contained in these Terms and Conditions. In accordance with Federal Acquisition Regulation 12.212 for civilian agencies and Defense Federal Acquisition Regulation Supplement 227.7202 for military agencies, use of the Application is further restricted by these Terms and Conditions.
-	    
-	    \n\n5. EXPORT RESTRICTIONS
-	    \nThe Application may be subject to export controls or restrictions by the United States or other countries or territories. You agree to comply with all applicable U.S. and international export laws and regulations. These laws include restrictions on destinations, end users, and end use.
-	    
-	    \n\n6. TERMINATION
-	    \nThese Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately delete the Application.
-	    
-	    \n\n7. INDEMNITY
-	    \nTo the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions.
-	    
-	    \n\n8. DISCLAIMER OF WARRANTIES
-	    \na. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND.
-	    \nb. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
-	    \nc. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, WITH RESPECT TO THE APPLICATION.
-	    \nd. THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
-	    
-	    \n\n9. LIMITATION OF LIABILITY
-	    \nYOU EXPRESSLY UNDERSTAND AND AGREE THAT THE COMPANY, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS ARE NOT LIABLE TO YOU UNDER ANY THEORY OF LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES THAT MAY BE INCURRED BY YOU THROUGH YOUR USE OF THE APPLICATION, INCLUDING ANY LOSS OF DATA OR DAMAGE TO YOUR MOBILE DEVICE, WHETHER OR NOT THE COMPANY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
-	    
-	    \n\n10. MISCELLANEOUS
-	    \na. These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Application.
-	    \nb. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company.
-	    \nc. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable.
-	    \nd. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party.
-	    \ne. These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of the State of California without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located within the county of Santa Clara, California to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+	    Обновления в этой версии:
+	    \n- расчет в режиме реального времени.
+	    \n- Законопроект между любым количеством народа.
+	    \n- Укажите ваш собственный чаевые процентов.
 	</string>
-	<string name="accept">Accept</string>
-	<string name="decline">Decline</string>
+	<string name="eula">
+	    АВТОРСКИЕ ПРАВА: Copyright
+	    
+	    \n\n2014 чаевые калькулятор. Все права защищены.
+	    
+	    \n\nЛицензионное соглашение конечного пользователя:
+	    \nзагрузка любого приложения с Кастильо Computer Consulting, LLC или Google™ (здесь после ее короткую историю развития уже успели смениться четыре "Компания" ), установка или с помощью этого приложения или какой-либо ее части ( "Приложение" ), вы соглашаетесь со следующими правилами и условиями ( "Положения и условия" ).
+	    
+	    \n\n1. Использовать приложение
+	    \n- Компания предоставляет вам неисключительную, не подлежащую передаче, ограниченное право и лицензию на установку и использование этого приложения только и исключительно для личного использования.
+	    \n- Вы не можете использовать приложение любым способом, который может привести к повреждению, отключение, перегрузкам или приложения (или серверов или сетей, подключенных к приложению), и не могут использовать приложение в какой-либо форме, что может создавать помехи для других сторон, в пользование и приложения (или серверов или сетей, подключенных к приложению).
+	    \n- Вы соглашаетесь, что вы несете исключительную ответственность за (и то, что компании не несут ответственности за вами или любой третьей стороной за) на использование приложения, любое нарушение Ваших обязательств в соответствии с условиями и положениями, и за последствия (в том числе любые потери или повреждения, которые компания может страдать) любого такого нарушения.
+	    
+	    \n\n2. Права собственности
+	    \nвы признаете, что
+	    \n- Приложение содержит конфиденциальной и конфиденциальную информацию, защищенную соответствующими законами об интеллектуальной собственности и другими законами.
+	    \n- В компании и/или третьи стороны собственной все права, права собственности и интерес и к приложению, и материалы, за исключением материалов, предоставляемых вами, которые могут быть представлены или получить к ним доступ через приложения, в том числе без ограничений все права интеллектуальной собственности на них и к нему. "Права интеллектуальной собственности" означает любые и все права человека, существующие время от времени в рамках евразийского патентного законодательства, законодательства об авторском праве, коммерческую тайну права, товарный знак права, недобросовестной конкуренции, и любые и все другие права собственности, и любые и все приложения, продление, расширений и восполнения ресурсов его части, в настоящее время или в дальнейшем в силу во всем мире. Вы согласны с тем, что у вас не будет, а также не позволит какой-либо третьей стороне (i) копирование, продавать, лицензия, распространять, передавать, изменять, адаптировать, перевод, подготовить производные продукты, декомпилировать, дизассемблировать или иным образом пытаться получить исходный код из приложения или контент, могут быть представлены или доступ к которому осуществляется через приложение для каких-либо целей, если иное не разрешено, (ii) каких-либо действий в обход или поражение в безопасности или content правил использования, развернутых или насильственным путем каких-либо функций (в том числе, без ограничений цифровой функции управления правами), содержащиеся в приложении, (iii) использование приложения для доступа к, копирование, передача, перекодировка или передавать содержимое в нарушение любого закона или права третьих лиц, или (iv) снимите, непонятным, или изменить компании или Какой-либо третьей "Нур Отан уведомления об авторских правах, товарными знаками, или других прав собственности прикреплена к или содержащихся в рамках или получить в сочетании с или с помощью приложения.
+	    
+	    \n\n3. Компания с условиями обслуживания и Политикой конфиденциальности
+	    \n- политикой конфиденциальности компании (находится на http://www.google.com/privacypolicy.html) объясняет, как компания относится к вашей информации и защищает конфиденциальность при использовании приложения. Вы соглашаетесь с использованием ваших данных в соответствии с принятой в компании политикой конфиденциальности.
+	    \n- Приложение может содержать функции, которые используются в сочетании с компании поиск и другие услуги. В связи с этим использование таких функций приложения также регулируется в условия обслуживания находится на http://www.google.com/terms_of_service.html, с политикой конфиденциальности компании расположен в http://www.google.com/privacypolicy.html,, а также любых применимых компания с условиями обслуживания и Политикой конфиденциальности, которая может быть время от времени обновляться и без предварительного уведомления.
+	    
+	    \n\n4. ОГРАНИЧЕННЫЕ ПРАВА ПРАВИТЕЛЬСТВА США
+	    \nэтого приложения, связанные с этим материалы и документация были разработаны полностью с частными фондами. Если пользователь приложения - это агентство, департамент, сотрудник, или другим органом правительства Соединенных Штатов, использование, копирование, воспроизведение, выпуск, изменения, раскрытия информации, или передачи в приложении, в том числе технические данные или руководств, ограничивается, условий и пактов в эти положения и условия. В соответствии с Federal 12,212 для гражданских учреждений и обороны Federal 227,7202 для военных учреждений, использования приложения ограничен этими положениями и условиями.
+	    
+	    \n\n5. ОГРАНИЧЕНИЕ ЭКСПОРТА
+	    \nприложение может быть экспортного контроля или ограничения в США или в других странах или территориях. Вы соглашаетесь соблюдать все применимые США и международного экспортного законодательства и нормативных актов. Эти законы предусматривают ограничения для конечных пользователей, и конечного использования.
+	    
+	    \n\n\6. Срок действия
+	    \nэти положения и условия будут по-прежнему применяться до тех пор пока прекращено либо вы или о компании, изложенные ниже. Вы можете прекратить эти положения и условия в любой момент времени, путем удаления приложения с вашего мобильного устройства в целом. Ваши права автоматически и немедленно расторгнуть без предварительного уведомления от компании или какой-либо третьей стороной, если вы не будете соблюдать какие-либо положения настоящих Положений и условий. В таком случае вы должны немедленно удалить приложения.
+	    
+	    \n\n7. Возмещение убытков
+	    \nв той мере, в которой это разрешено законодательством, вы соглашаетесь возместить убытки и освободить компании, ее филиалов и их директоров, должностных лиц, сотрудников и агентов от любых и всех исков, претензий, исков или процессуальных действий, а также любые и все убытки, обязательств, убытков, расходов и издержек (включая разумные расходы), вытекающих из или получаемых от использования приложения, в том числе ваши загрузки, установки или использования приложения, или в нарушение этих положений и условий.
+	    
+	    \n\n8. ОТКАЗ ОТ ГАРАНТИЙ
+	    \n- Вы понимаете и соглашаетесь с тем, что использование приложения - на ваше усмотрение и риск и что применение предоставляется как есть, и как можно получить без каких-либо гарантий.
+	    \n- Вы несете полную ответственность за любые повреждения вашего мобильного устройства, или другие устройства, или потери данных, результатов от такого использования.
+	    \n- Компания также отказывается от любых гарантий и условий любого рода, будь то прямой или подразумеваемой, включая, но не ограничиваясь, подразумеваемые гарантии товарного состояния, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННЫХ ЦЕЛЕЙ И НЕНАРУШЕНИЯ ПРАВ, в том что касается приложения.
+	    \n- Приложение не предназначено для использования в работе ядерных объектов, систем жизнеобеспечения, связи в чрезвычайных ситуациях, в морской навигации или систем связи, систем управления воздушным движением, или любой другой деятельности, в которой тот факт, что применение может привести к смерти, травмам, или тяжелых физических или нанести ущерб окружающей среде.
+	    
+	    \n\n9. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
+	    \nвы понимаете и соглашаетесь с тем, что компания, ее дочерние компании и филиалы, и ее лицензиары не несут ответственности перед вами в рамках какой-либо теории ответственности за какой-либо прямой, косвенный, случайный, КОСВЕННЫЙ ИЛИ ШТРАФНЫЕ УБЫТКИ, понесенные вами посредством использования приложения, включая любые потери данных или повреждению вашего мобильного устройства, будь то или не компания или ее представители были ПРЕДУПРЕЖДЕНА О ВОЗМОЖНОСТИ ТАКИХ УБЫТКОВ.
+	    
+	    \n\n10. Разные
+	    \n- эти условия и положения составляют полное соглашение между вами и компанией, и регулируют использование приложения, и полностью заменить ранее или действующих соглашений между вами и компанией относительно применения.
+	    \n- Отказ компании для любого права или положения настоящих Положений и условий не представляет собой отказ от такого права или положения, которые по-прежнему будут доступны для компании.
+	    \n- Если какой-либо суд, рассмотрев юрисдикции принять решение по этому вопросу, правила, какие-либо положения настоящих Положений и условий является недействительным, тогда, что положение будет удален из положения и условия без ущерба для остальных положений и условий. Остальные положения настоящих Положений и условий будет по-прежнему в силе и подлежат исполнению.
+	    \n- прав, предоставляемых в эти условия не могут быть переданы или передан или вы или о компании без предварительного письменного согласия другой стороны. Ни вы, ни компания не допускается делегировать своих обязанностей или обязательств в соответствии с настоящими Положениями и условиями без предварительного письменного согласия другой стороны.
+	    \n- Эти положения и условия и ваши отношения с компанией в рамках этих положений и условий будет рассматриваться в соответствии с законами штата Калифорния, без связи с ее конфликта законов положений. Вы и компании соглашаются представить в исключительной юрисдикции судов, находящихся в пределах округа Санта-Клара, штат Калифорния для решения какой-либо правовой проблемы, вытекающие из настоящих Положений и условий. Но несмотря на все это, вы согласны с тем, что компания по-прежнему будет разрешено применять для судебный запрет средства правовой защиты (или эквивалентного типа неотложной правовой помощи) в какой-либо юрисдикции.
+	</string>
+	<string name="accept">Согласиться с</string>
+	<string name="decline">Сокращение объема</string>
 </resources>

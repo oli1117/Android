@@ -1,6 +1,7 @@
 package com.ccc.calculator.gratuity;
 
 import com.ccc.calculator.gratuity.R;
+import com.ccc.utility.EndUserLicenseAgreement;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -24,7 +25,7 @@ import android.widget.TextView;
  * case your party or group decide to go dutch.
  * 
  * @author Gibran E. Castillo
- * @version 1.0, 17th December 2013
+ * @version 1.0, 30th December 2013
  * @see android.app.Activity
  * @see android.view.ContextThemeWrapper
  */
@@ -72,6 +73,8 @@ public class GratuityCalculator extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState); // call superclass's version
 		setContentView(R.layout.main); // inflate the GUI
+		
+		new EndUserLicenseAgreement(this).show(); 
 		
 		// get references to the 10%, 15% and 20% gratuity and total EditTexts
 		gratuityTenPercentEditText = (EditText) findViewById(R.id.gratuityTenPercentEditText);
