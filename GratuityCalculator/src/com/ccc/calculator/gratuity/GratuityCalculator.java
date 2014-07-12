@@ -7,6 +7,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
@@ -30,6 +31,9 @@ import android.widget.TextView;
  * @see android.view.ContextThemeWrapper
  */
 public class GratuityCalculator extends Activity {
+	// String used when logging error messages
+	private static final String TAG = "GratuityCalculator Activity";
+	
 	// constants used when saving/restoring state
 	private static final String AMOUNT = "AMOUNT";
 	private static final String CUSTOM_SERVICE_PERCENT = "CUSTOM_SERVICE_PERCENT";
@@ -74,7 +78,7 @@ public class GratuityCalculator extends Activity {
 		super.onCreate(savedInstanceState); // call superclass's version
 		setContentView(R.layout.main); // inflate the GUI
 		
-		new EndUserLicenseAgreement(this).show(); 
+		new EndUserLicenseAgreement(this).show();
 		
 		// get references to the 10%, 15% and 20% gratuity and total EditTexts
 		gratuityTenPercentEditText = (EditText) findViewById(R.id.gratuityTenPercentEditText);
@@ -174,8 +178,9 @@ public class GratuityCalculator extends Activity {
 			// convert amountEditText's text to a double
 			try {
 				currentAmount = Double.parseDouble(currentAmountCharSeq.toString());
-			} catch(NumberFormatException e) {
+			} catch(NumberFormatException nfe) {
 				currentAmount = 0.0; // default if an exception occurs
+				Log.e(TAG, "Error parsing the current amount 'CharSequence' object into a double primitive data type; therefore, set it to 0.0", nfe);
 			}
 			
 			// update the standard gratuity & total and the custom service gratuity EditTexts
