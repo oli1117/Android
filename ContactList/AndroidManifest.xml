@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ccc.contacts"
+    android:versionCode="1"
+    android:versionName="1.0">
+    
+    <uses-sdk android:minSdkVersion="11" />
+    <!-- <uses-sdk android:targetSdkVersion="11"/>
+    <uses-sdk android:maxSdkVersion="19"/> -->
+    
+    <!-- Required permission to check licensing. -->
+    <!-- <uses-permission android:name="com.android.vending.CHECK_LICENSE" /> -->
+    
+    <application android:icon="@drawable/contact_list" android:label="@string/app_name" android:debuggable="true">
+        <activity android:name="com.ccc.contacts.ContactList" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.ccc.contacts.AddEditContact" android:label="@string/app_name"></activity>
+        <activity android:name="com.ccc.contacts.ViewContact" android:label="@string/app_name"></activity>
+    </application>
+</manifest>
