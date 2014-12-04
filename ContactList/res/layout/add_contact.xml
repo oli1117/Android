@@ -82,7 +82,7 @@
             android:layout_height="wrap_content"
             android:hint="@string/hint_zip"
             android:imeOptions="actionDone"
-            android:inputType="textPostalAddress|textCapWords" >
+            android:inputType="number" >
         </EditText>
         
         <Button

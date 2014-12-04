@@ -116,7 +116,7 @@
             android:id="@+id/zipTableRow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" >
-
+            
             <TextView
                 android:id="@+id/zipLabelTextView"
                 style="@style/ContactLabelTextView"
@@ -125,6 +125,23 @@
 
             <TextView
                 android:id="@+id/zipTextView"
+                style="@style/ContactTextView" >
+            </TextView>
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/countryTableRow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/countryLabelTextView"
+                style="@style/ContactLabelTextView"
+                android:text="@string/label_country" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/countryTextView"
                 style="@style/ContactTextView" >
             </TextView>
         </TableRow>

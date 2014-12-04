@@ -274,22 +274,25 @@ public final class R {
         public static final int textview_border=0x7f0200fc;
     }
     public static final class id {
-        public static final int addContactItem=0x7f080025;
+        public static final int addContactItem=0x7f080028;
         public static final int addressTextView=0x7f080004;
         public static final int cityEditText=0x7f080006;
         public static final int cityLabelTextView=0x7f08001c;
         public static final int cityTableRow=0x7f08001b;
         public static final int cityTextView=0x7f08001d;
         public static final int contactTextView=0x7f08000a;
+        public static final int countryLabelTextView=0x7f080025;
+        public static final int countryTableRow=0x7f080024;
+        public static final int countryTextView=0x7f080026;
         public static final int country_list_listview=0x7f08000c;
         public static final int country_list_search=0x7f08000b;
-        public static final int deleteItem=0x7f080028;
-        public static final int editItem=0x7f080027;
+        public static final int deleteItem=0x7f08002b;
+        public static final int editItem=0x7f08002a;
         public static final int emailEditText=0x7f080003;
         public static final int emailLabelTextView=0x7f080016;
         public static final int emailTableRow=0x7f080015;
         public static final int emailTextView=0x7f080017;
-        public static final int home=0x7f080024;
+        public static final int home=0x7f080027;
         public static final int linearLayout=0x7f080000;
         public static final int nameEditText=0x7f080001;
         public static final int nameLabelTextView=0x7f080010;
@@ -302,7 +305,7 @@ public final class R {
         public static final int row_icon=0x7f08000d;
         public static final int row_title=0x7f08000e;
         public static final int saveContactButton=0x7f080009;
-        public static final int show_dialog=0x7f080026;
+        public static final int show_dialog=0x7f080029;
         public static final int stateEditText=0x7f080007;
         public static final int stateLabelTextView=0x7f08001f;
         public static final int stateTableRow=0x7f08001e;
@@ -320,7 +323,7 @@ public final class R {
         public static final int add_contact=0x7f030000;
         public static final int contact_list_item=0x7f030001;
         public static final int country_list_item=0x7f030002;
-        public static final int row=0x7f030003;
+        public static final int row_contact=0x7f030003;
         public static final int view_contact=0x7f030004;
         public static final int view_country_list=0x7f030005;
     }

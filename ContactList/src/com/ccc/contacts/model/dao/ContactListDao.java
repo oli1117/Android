@@ -70,19 +70,19 @@ public class ContactListDao {
 	 * Inserts a new contact in the SQLite database.
 	 * 
 	 * @param id a long value that represents the contact id.
-	 * @param name a String value that represents the contact name. 
+	 * @param name a String value that represents the contact name.
+	 * @param phone a String value that represents the contact phone. 
 	 * @param email a String value that represents the contact email.
-	 * @param phone a String value that represents the contact phone.
 	 * @param street a String value that represents the contact street.
 	 * @param city a String value that represents the contact city.
 	 * @param state a String value that represents the contact state.
 	 * @param zip a String value that represents the contact ZIP.
 	 */
-	public void insertContact(String name, String email, String phone, String street, String city, String state, String zip) {
+	public void insertContact(String name, String phone, String email, String street, String city, String state, String zip) {
 		ContentValues newContact = new ContentValues();
 		newContact.put("name", name);
-		newContact.put("email", email);
 		newContact.put("phone", phone);
+		newContact.put("email", email);
 		newContact.put("street", street);
 		newContact.put("city", city);
 		newContact.put("state", state);
@@ -99,19 +99,19 @@ public class ContactListDao {
 	 * Updates an existing contact's information in the SQLite database.
 	 * 
 	 * @param id a long value that represents the contact id.
-	 * @param name a String value that represents the contact name. 
-	 * @param email a String value that represents the contact email.
+	 * @param name a String value that represents the contact name.
 	 * @param phone a String value that represents the contact phone.
+	 * @param email a String value that represents the contact email.
 	 * @param street a String value that represents the contact street.
 	 * @param city a String value that represents the contact city.
 	 * @param state a String value that represents the contact state.
 	 * @param zip a String value that represents the contact ZIP.
 	 */
-	public void updateContact(long id, String name, String email, String phone, String street, String city, String state, String zip) {
+	public void updateContact(long id, String name, String phone, String email, String street, String city, String state, String zip) {
 		ContentValues editContact = new ContentValues();
 		editContact.put("name", name);
-		editContact.put("email", email);
 		editContact.put("phone", phone);
+		editContact.put("email", email);
 		editContact.put("street", street);
 		editContact.put("city", city);
 		editContact.put("state", state);
@@ -182,11 +182,14 @@ public class ContactListDao {
 		 */
 		@Override
 		public void onCreate(SQLiteDatabase db) {
-			/*String createQuery = "CREATE TABLE contacts" +
-					"(_id integer primary key autoincrement," +
-					"name TEXT, email TEXT, phone TEXT," +
-					"street TEXT, city TEXT);";*/
-			String createQuery = "CREATE TABLE contacts_table(_id integer primary key autoincrement, name TEXT, email TEXT, phone TEXT, street TEXT, city TEXT, state TEXT, zip TEXT);";
+			String createQuery = "CREATE TABLE contacts_table(_id integer primary key autoincrement, "
+														   + "name TEXT, "
+														   + "phone TEXT, "
+														   + "email TEXT, "
+														   + "street TEXT, "
+														   + "city TEXT, "
+														   + "state TEXT, "
+														   + "zip TEXT);";
 			
 			db.execSQL(createQuery);
 		}
