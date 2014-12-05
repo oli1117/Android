@@ -100,7 +100,7 @@ public class CountryListAdapter extends BaseAdapter {
 		
 		if(convertView == null) {
 			cell = new Cell();
-			cellView = layoutInflater.inflate(R.layout.row_contact, null);
+			cellView = layoutInflater.inflate(R.layout.row_country, null);
 			cell.textView = (TextView) cellView.findViewById(R.id.row_title);
 			cell.imageView = (ImageView) cellView.findViewById(R.id.row_icon);
 			cellView.setTag(cell);

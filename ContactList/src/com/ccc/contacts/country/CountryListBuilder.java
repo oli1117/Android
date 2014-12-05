@@ -142,11 +142,10 @@ public class CountryListBuilder extends DialogFragment implements Comparator<Cou
 	 * @throws java.io.IOException
 	 */
 	private static String readFileAsString(Context context) throws java.io.IOException {
-		/*String base64 = context.getResources().getString(R.string.countries);
+		String base64 = context.getResources().getString(R.string.countries);
 		byte[] data = Base64.decode(base64, Base64.DEFAULT);
 		
-		return new String(data, "UTF-8");*/
-		return "";
+		return new String(data, "UTF-8");
 	}
 	
 	/**
