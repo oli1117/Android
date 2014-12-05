@@ -86,7 +86,7 @@ public class CountryListActivity extends FragmentActivity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the country_list_menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.country_list_menu, menu);
-		MenuItem item = menu.findItem(R.string.show_dialog);
+		MenuItem item = null; //menu.findItem(R.string.show_dialog);
 		
 		/**
 		 * An anonymous inner class, flavor two (implementer of an interface), that is, an implementer of the OnMenuItemClickListener static interface.

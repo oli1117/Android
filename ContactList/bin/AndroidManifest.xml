@@ -20,5 +20,6 @@
         </activity>
         <activity android:name="com.ccc.contacts.AddEditContact" android:label="@string/app_name"></activity>
         <activity android:name="com.ccc.contacts.ViewContact" android:label="@string/app_name"></activity>
+        <activity android:name="com.ccc.contacts.country.CountryListActivity" android:label="@string/app_name"></activity>
     </application>
 </manifest>

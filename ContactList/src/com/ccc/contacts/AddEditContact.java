@@ -2,14 +2,18 @@ package com.ccc.contacts;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.ccc.contacts.R;
+import com.ccc.contacts.country.CountryListActivity;
 import com.ccc.contacts.model.dao.ContactListDao;
 
 /**
@@ -39,6 +43,7 @@ public class AddEditContact extends Activity {
 	private EditText cityEditText;
 	private EditText stateEditText;
 	private EditText zipEditText;
+	private EditText countryEditText;
 	
 	/**
 	 * Called when the AddEditContact Activity is first created.
@@ -53,7 +58,7 @@ public class AddEditContact extends Activity {
 		// inflate the AddEditContact UI.
 		setContentView(R.layout.add_contact);
 		
-		// get references to the name, phone, email, street, city, state and zip EditTexts.
+		// get references to the name, phone, email, street, city, state, ZIP, and country EditTexts.
 		nameEditText = (EditText) findViewById(R.id.nameEditText);
 		phoneEditText = (EditText) findViewById(R.id.phoneEditText);
 		emailEditText = (EditText) findViewById(R.id.emailEditText);
@@ -61,6 +66,17 @@ public class AddEditContact extends Activity {
 		cityEditText = (EditText) findViewById(R.id.cityEditText);
 		stateEditText = (EditText) findViewById(R.id.stateEditText);
 		zipEditText = (EditText) findViewById(R.id.zipEditText);
+		countryEditText = (EditText) findViewById(R.id.countryEditText);
+		
+		/*countryEditText.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent selectCountry = new Intent(AddEditContact.this, CountryListActivity.class);
+				startActivity(selectCountry);
+				Toast.makeText(getApplicationContext(), "You pressed the custom button!", Toast.LENGTH_LONG).show();
+			}
+		});*/
 		
 		// get Bundle of extras
 		Bundle extras = getIntent().getExtras();
@@ -75,6 +91,7 @@ public class AddEditContact extends Activity {
 			cityEditText.setText(extras.getString("city"));
 			stateEditText.setText(extras.getString("state"));
 			zipEditText.setText(extras.getString("zip"));
+			countryEditText.setText(extras.getString("country"));
 		}
 		
 		// set event listener for the Save Contact Button.
@@ -134,6 +151,7 @@ public class AddEditContact extends Activity {
 				builder.setTitle(R.string.errorTitle);
 				builder.setMessage(R.string.errorMessage);
 				builder.setPositiveButton(R.string.errorButton, null);
+				//builder.setNegativeButton(R.string.errorButton, null);
 				
 				// display the Dialog.
 				builder.show();
@@ -155,7 +173,8 @@ public class AddEditContact extends Activity {
 					streetEditText.getText().toString(),
 					cityEditText.getText().toString(),
 					stateEditText.getText().toString(),
-					zipEditText.getText().toString());
+					zipEditText.getText().toString(),
+					countryEditText.getText().toString());
 		} else {
 			databaseConnector.updateContact(rowID,
 					nameEditText.getText().toString(),
@@ -164,7 +183,8 @@ public class AddEditContact extends Activity {
 					streetEditText.getText().toString(),
 					cityEditText.getText().toString(),
 					stateEditText.getText().toString(),
-					zipEditText.getText().toString());
+					zipEditText.getText().toString(),
+					countryEditText.getText().toString());
 		}
 	}
 }

@@ -69,16 +69,17 @@ public class ContactListDao {
 	/**
 	 * Inserts a new contact in the SQLite database.
 	 * 
-	 * @param id a long value that represents the contact id.
-	 * @param name a String value that represents the contact name.
-	 * @param phone a String value that represents the contact phone. 
-	 * @param email a String value that represents the contact email.
-	 * @param street a String value that represents the contact street.
-	 * @param city a String value that represents the contact city.
-	 * @param state a String value that represents the contact state.
-	 * @param zip a String value that represents the contact ZIP.
+	 * @param id a long value that represents the contact's id.
+	 * @param name a String value that represents the contact's name.
+	 * @param phone a String value that represents the contact's phone. 
+	 * @param email a String value that represents the contact's email.
+	 * @param street a String value that represents the contact's street.
+	 * @param city a String value that represents the contact's city.
+	 * @param state a String value that represents the contact's state.
+	 * @param zip a String value that represents the contact's ZIP.
+	 * @param country a String value that represents the contact's country.
 	 */
-	public void insertContact(String name, String phone, String email, String street, String city, String state, String zip) {
+	public void insertContact(String name, String phone, String email, String street, String city, String state, String zip, String country) {
 		ContentValues newContact = new ContentValues();
 		newContact.put("name", name);
 		newContact.put("phone", phone);
@@ -87,6 +88,7 @@ public class ContactListDao {
 		newContact.put("city", city);
 		newContact.put("state", state);
 		newContact.put("zip", zip);
+		newContact.put("country", country);
 		
 		open();
 		
@@ -98,16 +100,17 @@ public class ContactListDao {
 	/**
 	 * Updates an existing contact's information in the SQLite database.
 	 * 
-	 * @param id a long value that represents the contact id.
-	 * @param name a String value that represents the contact name.
-	 * @param phone a String value that represents the contact phone.
-	 * @param email a String value that represents the contact email.
-	 * @param street a String value that represents the contact street.
-	 * @param city a String value that represents the contact city.
-	 * @param state a String value that represents the contact state.
-	 * @param zip a String value that represents the contact ZIP.
+	 * @param id a long value that represents the contact's id.
+	 * @param name a String value that represents the contact's name.
+	 * @param phone a String value that represents the contact's phone.
+	 * @param email a String value that represents the contact's email.
+	 * @param street a String value that represents the contact's street.
+	 * @param city a String value that represents the contact's city.
+	 * @param state a String value that represents the contact's state.
+	 * @param zip a String value that represents the contact's ZIP.
+	 * @param country a String value that represents the contact's country.
 	 */
-	public void updateContact(long id, String name, String phone, String email, String street, String city, String state, String zip) {
+	public void updateContact(long id, String name, String phone, String email, String street, String city, String state, String zip, String country) {
 		ContentValues editContact = new ContentValues();
 		editContact.put("name", name);
 		editContact.put("phone", phone);
@@ -116,6 +119,7 @@ public class ContactListDao {
 		editContact.put("city", city);
 		editContact.put("state", state);
 		editContact.put("zip", zip);
+		editContact.put("country", country);
 		
 		open();
 		
@@ -136,7 +140,7 @@ public class ContactListDao {
 	/**
 	 * Get a Cursor containing all information about the contact specified by the given id.
 	 * 
-	 * @param id a long value that represents the contact id.
+	 * @param id a long value that represents the contact's id.
 	 * 
 	 * @return a SQLiteCursor with the id or one contact information in the SQLite database.
 	 */
@@ -147,7 +151,7 @@ public class ContactListDao {
 	/**
 	 * Delete the contact specified by the given id.
 	 * 
-	 * @param id a long value that represents the contact id.
+	 * @param id a long value that represents the contact's id.
 	 */
 	public void deleteContact(long id) {
 		open();
@@ -189,7 +193,8 @@ public class ContactListDao {
 														   + "street TEXT, "
 														   + "city TEXT, "
 														   + "state TEXT, "
-														   + "zip TEXT);";
+														   + "zip TEXT, "
+														   + "country TEXT);";
 			
 			db.execSQL(createQuery);
 		}

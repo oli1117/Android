@@ -9,8 +9,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="@string/search"
         android:drawableLeft="@drawable/country_search_icon" />
+        <!-- android:hint="@string/search"
+        android:drawableLeft="@drawable/country_search_icon" /> -->
 
     <ListView
         android:id="@+id/country_list_listview"

@@ -81,8 +81,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_zip"
-            android:imeOptions="actionDone"
+            android:imeOptions="actionNext"
             android:inputType="number" >
+        </EditText>
+        
+        <EditText
+            android:id="@+id/countryEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_country"
+            android:imeOptions="actionDone"
+            android:inputType="textPostalAddress|textCapWords" >
+            <!-- android:inputType="text|textCapWords" > -->
+            <!-- android:inputType="textPersonName|textCapWords" > -->
         </EditText>
         
         <Button

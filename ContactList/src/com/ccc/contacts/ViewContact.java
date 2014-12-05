@@ -38,6 +38,7 @@ public class ViewContact extends Activity {
 	private TextView cityTextView;
 	private TextView stateTextView;
 	private TextView zipTextView;
+	private TextView countryTextView;
 	
 	/**
 	 * called when the ViewContact activity is first created.
@@ -52,7 +53,7 @@ public class ViewContact extends Activity {
 		// inflate the ViewContact UI.
 		setContentView(R.layout.view_contact);
 		
-		// get references to the name, phone, email, street, city, state and ZIP EditTexts.
+		// get references to the name, phone, email, street, city, state, ZIP and country EditTexts.
 		nameTextView = (TextView) findViewById(R.id.nameTextView);
 		phoneTextView = (TextView) findViewById(R.id.phoneTextView);
 		emailTextView = (TextView) findViewById(R.id.emailTextView);
@@ -60,6 +61,7 @@ public class ViewContact extends Activity {
 		cityTextView = (TextView) findViewById(R.id.cityTextView);
 		stateTextView = (TextView) findViewById(R.id.stateTextView);
 		zipTextView = (TextView) findViewById(R.id.zipTextView);
+		countryTextView = (TextView) findViewById(R.id.countryTextView);
 		
 		// get Bundle of extras.
 		Bundle extras = getIntent().getExtras();
@@ -121,6 +123,7 @@ public class ViewContact extends Activity {
 			int cityIndex = result.getColumnIndex("city");
 			int stateIndex = result.getColumnIndex("state");
 			int zipIndex = result.getColumnIndex("zip");
+			int countryIndex = result.getColumnIndex("country");
 			
 			// fill TextViews with the retrieved data
 			nameTextView.setText(result.getString(nameIndex));
@@ -130,6 +133,7 @@ public class ViewContact extends Activity {
 			cityTextView.setText(result.getString(cityIndex));
 			stateTextView.setText(result.getString(stateIndex));
 			zipTextView.setText(result.getString(zipIndex));
+			countryTextView.setText(result.getString(countryIndex));
 			
 			result.close();
 			databaseConnector.close();
@@ -177,6 +181,7 @@ public class ViewContact extends Activity {
 			addEditContact.putExtra("city", cityTextView.getText());
 			addEditContact.putExtra("state", stateTextView.getText());
 			addEditContact.putExtra("zip", zipTextView.getText());
+			addEditContact.putExtra("country", countryTextView.getText());
 			startActivity(addEditContact);
 			
 			return true;
